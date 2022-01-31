@@ -1,6 +1,6 @@
 {
-    "name": "test_web_flutter",
-    "short_name": "test_web_flutter",
+    "name": "meetings_management_client_flutter",
+    "short_name": "meetings_management_client_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
