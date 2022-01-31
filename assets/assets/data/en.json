@@ -1,0 +1,48 @@
+{
+  "Male": "Male",
+  "Female": "Female",
+
+  "AR": "Arabic",
+  "EN": "English",
+  "FR": "French",
+  "SP": "Spanish",
+  "OR": "Urdu",
+  "CH": "Chinese",
+  "YA": "Japanese",
+  "KO": "Korean",
+
+  "SPEC1": "Medical",
+  "SPEC2": "Art",
+  "SPEC3": "Mathematical",
+  "SPEC4": "Technology",
+  "SPEC5": "Engineering",
+  "SPEC6": "Business Administration",
+  "SPEC7": "Languages ​​and its translation",
+  "SPEC8": "Marketing",
+  "SPEC9": "Artificial Intelligence",
+  "SPEC10": "Media",
+
+  "SK1": "Communication skill",
+  "SK2": "Collaboration and teamwork",
+  "SK3": "Team management",
+  "SK4": "Time management",
+  "SK5": "Problem solving",
+  "SK6": "Dealing with pressure",
+  "SK7": "Receiving delegations",
+  "SK8": "Dealing with children",
+  "SK9": "Dealing with special groups",
+  "SK10": "Dealing with the elderly",
+
+  "ES0": "New",
+  "ES1": "Submited",
+  "ES2": "Rejected",
+  "ES3": "Published",
+  "ES4": "OnHold",
+  "ES5": "ReSubmited",
+  "ES6": "CLOSED",
+
+  "APP0": "New",
+  "APP1": "Accepted",
+  "APP2": "Rejected"
+
+}
